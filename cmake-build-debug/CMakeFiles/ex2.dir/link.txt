@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ex2.dir/src/ex2.c.o CMakeFiles/ex2.dir/src/ex2Main.c.o  -o ex2 
